@@ -10,16 +10,4 @@
     <artifactId>boilerplate</artifactId>
     <version>0.1</version>
   </parent>
-
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>io.micronaut.build</groupId>
-        <artifactId>micronaut-maven-plugin</artifactId>
-        <configuration>
-          <mainClass>main/com.example.Application</mainClass>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
 </project>
